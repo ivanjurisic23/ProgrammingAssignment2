@@ -2,7 +2,7 @@
 ## cacheSolve: This function computes the inverse of the special “matrix” returned by makeCacheMatrix above. 
 
 ## The first function, makeCacheMatrix creates a special “matrix”, which is really a list containing a function to:
-## set the value of the matrix, get the value of the matrix, set the value of the inverse 
+## set the value of the matrix, get the value of the matrix, set the value of the inverse, 
 ## and get the value of the inverse
 
 
